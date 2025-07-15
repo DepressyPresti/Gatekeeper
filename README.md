@@ -15,3 +15,5 @@ You can still invite it to your server and view usage instructions here.
 ## ❌ Issues
 Please report any issues via GitHub or DM DepressyPresti on discord.
 
+Privacy Policy: https://gist.github.com/DepressyPresti/2129f482c441195415d5b579b90ce8b5
+TOS: https://gist.github.com/DepressyPresti/67f500aeca7d970e8bd9eb668531da4a
