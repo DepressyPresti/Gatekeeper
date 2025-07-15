@@ -15,4 +15,4 @@ Privacy Policy: https://gist.github.com/DepressyPresti/2129f482c441195415d5b579b
 
 TOS: https://gist.github.com/DepressyPresti/67f500aeca7d970e8bd9eb668531da4a
 
-This project is cuurently closed source.
+This project is currently closed source.
